@@ -1,0 +1,2 @@
+This is the text written in "abc.txt".
+This will get copied to the file "xyz.txt".
